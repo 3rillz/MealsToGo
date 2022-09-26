@@ -1,0 +1,16 @@
+{
+  "name": "MealsToGo",
+  "displayName": "MealsToGo",
+  "icon": "./assets/icon,png",
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor":"#FFFFFF"
+  },
+  "android": {
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/icon.png",
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}
